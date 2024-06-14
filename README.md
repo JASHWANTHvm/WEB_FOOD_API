@@ -1,1 +1,2 @@
 # WEB_FOOD_API
+The "Find Meal For Your Ingredients" project addresses a prevalent issue faced by home cooks: the challenge of deciding what to prepare with the ingredients available at hand. This web-based application leverages TheMealDB API to offer users a convenient way to discover recipes based on the ingredients they input. The primary goals of this project are to reduce food waste, save time in meal planning, and encourage culinary diversity by suggesting a wide range of meal options.
